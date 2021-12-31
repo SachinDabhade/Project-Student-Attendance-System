@@ -70,6 +70,6 @@ class Data_Generator():
 
 if __name__ == '__main__':
 
-    Data = Data_Generator(Years, Branches, Cities, Attendances, Names)
+    Data = Data_Generator(Years, Branches, Cities, Names)
     Data.Student()
         
