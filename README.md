@@ -7,6 +7,11 @@ Installing Libraries
 pip install requirements.txt
 ```
 
+## How to run Project
+1. Create the Data using Generate Data Jupyter File
+2. Replace the Database name and Password in program
+3. Run Main.py File using 'py Main.py'
+
 ## Contribution
 I have strong belief on open source contribution and I promote the open source contribution. So, I invite you all to add new features in this program and also simplify the code as you can. Come here and show your talent. Ther are many features that you can develop in this program.
 
